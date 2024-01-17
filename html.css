@@ -1,0 +1,63 @@
+ * {
+     padding: 0;
+     margin: 0;
+     text-decoration: none;
+     font-family: verdana;
+ }
+ 
+ body {
+     background: rgba(170, 108, 1, 0.998);
+     border-radius: 60px;
+     padding: 30px;
+ }
+ 
+ nav {
+     margin-bottom: 40px;
+ }
+ 
+ nav img {
+     width: 200px;
+ }
+ 
+ nav ul {
+     padding: 5px 100px;
+     margin: 5px 80px;
+     background: linear-gradient(to bottom right, rgb(229, 203, 4), rgb(250, 250, 93), rgb(255, 196, 0));
+     border-radius: 30px;
+     float: right;
+ }
+ 
+ nav ul li {
+     font-family: verdana;
+     font-size: 20px;
+     display: inline;
+     padding: 8px 10px;
+     margin: 0 10px;
+     background: linear-gradient(to bottom right, rgb(248, 235, 139), rgb(250, 250, 93), rgb(139, 107, 2));
+     border-radius: 10px;
+ }
+ 
+ section {
+     background: rgb(252, 165, 3);
+     border-radius: 60px;
+     padding: 60px 15px;
+ }
+ 
+ .class {
+     border-radius: 10px;
+     background: rgba(4, 208, 249, 0.986);
+     padding: 30px;
+     border: 1px solid black;
+     margin-bottom: 30px;
+ }
+ 
+ .ubuntoo {
+     border-radius: 15px;
+     background: white;
+     padding: 10px 40px;
+     text-align: center;
+ }
+ 
+ .ubuntoo img {
+     width: 200px;
+ }
